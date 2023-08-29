@@ -1,0 +1,35 @@
+# General 
+*.log
+*.zip
+*.gzip
+*.tar*
+
+# C extensions
+*.so
+
+# Distribution
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+*.egg-info/
+*.egg
+.installed.cfgg
+
+# MacOS 
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Unit Tests & Linting
+*.*_cache
+
+# Documentation
+*.pptx
+*.doc*
+*.xls*
+
